@@ -1,0 +1,10 @@
+#Ignore pdf
+*.pdf
+*.log
+*.tmp
+*.pth
+*.bin
+*.pyc
+
+#ignore virtual env
+venv/
